@@ -1,0 +1,1 @@
+dbc5ea58-ec17-4103-97e7-99aad2681356 bucket=powderhouse-atlas-miriamzisook datacenter=US encryption=none exporttree=yes host=s3.amazonaws.com name=atlasS3 port=80 public=yes publicurl=https://s3.amazonaws.com/powderhouse-atlas-miriamzisook/ storageclass=STANDARD type=S3 timestamp=1543267460.850413s
